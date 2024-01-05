@@ -12,8 +12,6 @@ h6 {
     display: none
 }
 
-/* 中間彈出的div樣式 */
-
 #tyModal {
     display: none;
     position: fixed;
